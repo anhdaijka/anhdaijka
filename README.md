@@ -50,9 +50,9 @@
 
 ### 📊 Performance Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=anhdaijka&show_icons=true&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=anhdaijka&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anhdaijka&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=anhdaijka&show_icons=true&theme=dracula){:style="display:block; margin-left:auto; margin-right:auto"}
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=anhdaijka&theme=dracula){:style="display:block; margin-left:auto; margin-right:auto"}
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anhdaijka&layout=compact&theme=dracula){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ---
 
