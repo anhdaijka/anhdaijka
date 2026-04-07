@@ -1,4 +1,4 @@
-# 🎵 Phùng Quang Anh - Artist Profile
+# 🎵 Phùng Quang Anh - Profile
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Japanese+Bridge+Engineer+(BrSE);Tech+Lead+%40+Talk%26Share;Bodybuilding+Enthusiast" alt="Typing SVG" />
@@ -14,14 +14,14 @@
 </p>
   </a>
   <br />
-  <sub><i>Click vào thanh nhạc để ghé thăm Portfolio của tôi ⚡</i></sub>
+  <sub><i>Click the below player to access my portfolio 🤗</i></sub>
 </div>
 
 
 
 ---
 
-### 🟢 Artist Info
+### 🟢 Basic Information
 - 🧑‍💻 **Role**: Full-stack Developer / Japanese Bridge Engineer
 - 🇯🇵 **Language**: Japanese N2 (Experienced in Japan) - Gonna get N1 in several next months :))
 - 🏋️ **Lifestyle**: Aesthetic Hybrid Gymer
@@ -40,11 +40,11 @@
 ---
 
 ### 🕹️ Recently Played (Favorite Games)
-*A collection of my most played "titles" on Acer Nitro 5*
+*A collection of my most played "titles" recently*
 
 * **Track 01:** 🐒 **Black Myth: Wukong** (Action/RPG)
 * **Track 02:** ⚽ **EA Sports FC / eFootball** (Sports)
-* **Track 03:** 🥷 **Ninja School Remake Project** (Side-scrolling)
+* **Track 03:** 🥷 **Classic Pikachu 2005** (Casual Puzzle)
 
 ---
 
