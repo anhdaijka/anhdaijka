@@ -49,11 +49,11 @@
 ---
 
 ### 📊 Performance Stats
-<div align="center">
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=anhdaijka&show_icons=true&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=anhdaijka&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anhdaijka&layout=compact&theme=dracula)
-</div>
+
 ---
 
 ### 📬 Connect with me
