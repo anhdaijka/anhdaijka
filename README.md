@@ -51,13 +51,9 @@
 ### 📊 Performance Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=anhdaijka&show_icons=true)
-<div align="center">
-  <br/>
-</div>
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=anhdaijka)
-<div align="center">
-  <br/>
-</div>
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anhdaijka&layout=compact)
 
 ---
