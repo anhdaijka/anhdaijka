@@ -7,13 +7,13 @@
 ### 🎧 Now Playing
 <div align="center">
   <a href="https://anhdaijka.vercel.app">
-    <img src="https://github-readme-spotify.main.app/api/canvas?user_id=[ID_SPOTIFY_CỦA_BẠN]&theme=dark" alt="Spotify Player" width="450" />
+    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsziih62lmgt7s6oqqgzeg2qr4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true&bar_color=53b14f&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsziih62lmgt7s6oqqgzeg2qr4&redirect=true)
   </a>
   <br />
   <sub><i>Click vào thanh nhạc để ghé thăm Portfolio của tôi ⚡</i></sub>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsziih62lmgt7s6oqqgzeg2qr4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true&bar_color=53b14f&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zsziih62lmgt7s6oqqgzeg2qr4&redirect=true)
+
 
 ---
 
