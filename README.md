@@ -49,10 +49,9 @@
 ---
 
 ### 📊 Performance Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anhdaijka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1DB954&icon_color=1DB954" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhdaijka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1DB954" />
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=anhdaijka&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=anhdaijka&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anhdaijka&layout=compact&theme=dracula)
 
 ---
 
