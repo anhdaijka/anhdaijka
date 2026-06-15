@@ -1,7 +1,7 @@
 # 🎵 Phùng Quang Anh - Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Japanese+Bridge+Engineer+(BrSE);Tech+Lead+%40+Talk%26Share;Bodybuilding+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Japanese+Bridge+Engineer+(BrSE);Tech+Lead;Bodybuilding+Enthusiast" alt="Typing SVG" />
 </div>
 
 ### 🎧 Now Playing
