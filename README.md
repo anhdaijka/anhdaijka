@@ -1,7 +1,7 @@
 # 🎵 Phùng Quang Anh - Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Japanese+Bridge+Engineer+(BrSE);Tech+Lead;Bodybuilding+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Japanese+Bridge+Engineer+(BrSE);Tech+Lead" alt="Typing SVG" />
 </div>
 
 ### 🎧 Now Playing
@@ -23,10 +23,7 @@
 
 ### 🟢 Basic Information
 - 🧑‍💻 **Role**: Full-stack Developer / Japanese Bridge Engineer
-- 🇯🇵 **Language**: Japanese N2 (Experienced in Japan) - Gonna get N1 in several next months :))
-- 🏋️ **Lifestyle**: Aesthetic Hybrid Gymer
-- 💻 **Hardware**: Acer Nitro 5 AN515-58
-
+- 🇯🇵 **Language**: Japanese N2 (Experienced in Japan)
 ---
 
 ### 💿 Featured Playlist (Top Skills)
